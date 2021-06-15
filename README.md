@@ -1,7 +1,10 @@
 # Token Sale Contract
 
+Mainnet addresses:
+- Seed Round Token Sale Contract: [0x2C51DF7dBE97a15C24BBD2C00CD453B620332D68](https://etherscan.io/address/0x2C51DF7dBE97a15C24BBD2C00CD453B620332D68)
+
 Rinkeby addresses:
-- Token Sale Contract: [0x618817B07EAF4817c9515570659c76296aC15195](https://polygonscan.com/address/0x618817b07eaf4817c9515570659c76296ac15195)
+- Token Sale Contract: [0x9f785a2516e60Cf984947848d6884b52A604b1bC](https://rinkeby.etherscan.io/address/0x9f785a2516e60Cf984947848d6884b52A604b1bC)
 
 
 ## Tools

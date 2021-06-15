@@ -80,8 +80,8 @@ const deployFunction: any = async function (hre: HardhatRuntimeEnvironment) {
   cyan("\nDeploying TokenSale...");
 
   const beneficiary: string = "0xbbe982A9BC956B6b315C934e52DE29AB3f6a0185";
-  const startTime: number = 1623488400;
-  const duration: number = 381600;
+  const startTime: number = 1623747600;
+  const duration: number = 122400;
   const min: number = 1_00;
   const max: number = 250_00;
   const cap: number = 50_000_00;

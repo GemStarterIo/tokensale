@@ -98,6 +98,7 @@ if (infuraApiKey && mnemonic) {
     accounts: {
       mnemonic,
     },
+    gasPrice: 19000000000,
   };
 
   networks.mainnet = {
@@ -105,6 +106,7 @@ if (infuraApiKey && mnemonic) {
     accounts: {
       mnemonic,
     },
+    gasPrice: 25000000000,
   };
 } else {
   console.warn("No infura or hdwallet available for testnets");
